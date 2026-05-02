@@ -27,13 +27,13 @@ A Simple contact-form build with only *HTML* and *CSS*.The user fill the form by
 ## SCREENSHOT 📸
 
 Here's what the app look like
-[PROJECT SCREENSHOT](ss.png)
+- [PROJECT SCREENSHOT](ss.png)
 
 ------------------------
 
 ## LIVE DEMO 🌐
 
-[Click here to view the project]()
+[Click here to view the project](https://amnaakhtar1213.github.io/contact-form/)
 
 -------------
 
